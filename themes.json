@@ -1,4 +1,28 @@
 {
+	"Clean Theme": {
+		"author": "Tyler Mayoff",
+		"category": "Community",
+		"description": "A simple card based theme",
+		// TODO "icon",
+		"contact": null,
+		"website": "https://github.com/tmayoff/OrganizrTheme",
+		"version": "1.0.0",
+		"release_date": "2020-05-25",
+		"last_update": "2020-05-25",
+		"github_folder": "Clean_theme",
+		"license": "personal,business",
+		"files":{
+			"/css/themes": "clean_dark.css|clean_light.css"
+		},
+		"images": {
+			"Login": "https://raw.githubusercontent.com/Burry/Organizr-Plex-Theme/master/doc/screenshots/1.png",
+			"Splash": "https://raw.githubusercontent.com/Burry/Organizr-Plex-Theme/master/doc/screenshots/2.png",
+			"Homepage": "https://raw.githubusercontent.com/Burry/Organizr-Plex-Theme/master/doc/screenshots/3.png",
+			"Search": "https://raw.githubusercontent.com/Burry/Organizr-Plex-Theme/master/doc/screenshots/4.png"
+		},
+		"css": {},
+		"javascript": {}
+	},
 	"Plex Theme": {
 		"author": "Grant Burry",
 		"category": "Community",
